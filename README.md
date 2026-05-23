@@ -237,6 +237,5 @@ plt.show()
 <img width="588" height="354" alt="image" src="https://github.com/user-attachments/assets/329b3cf3-08f2-48b5-b0f7-1aa9cc19bc61" />
 
 # RESULT:
-      
-
-       
+        
+Thus,the program is executed successfully.  
